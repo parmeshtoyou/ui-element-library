@@ -1,0 +1,3 @@
+include ':UiElementLibrary'
+include ':app'
+rootProject.name = "UiElementLib"
